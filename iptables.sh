@@ -5,7 +5,7 @@ export IPT="iptables"
 export IPT6="ip6tables"
 # Интерфейс который смотрит в интернет
 export WAN=eth0
-export WAN_IP=92.53.120.185
+export WAN_IP=your_ip
 
 echo "==================================================================="
 echo "======================== IPTABLES RULES ==========================="
